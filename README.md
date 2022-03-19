@@ -1,2 +1,2 @@
 # robot-factory
-Repository to hold exercises developed during Playtech WEB Academy 2022. 
+Repository to hold Robot Factory exercise developed during Playtech WEB Academy 2022. 
